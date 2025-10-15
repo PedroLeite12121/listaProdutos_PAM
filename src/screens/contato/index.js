@@ -11,7 +11,7 @@ export default function Contato({navigation}) {
         <Text style={styles.text}>produtos123@gmail.com</Text>
 
         <Text style={styles.tituloInformacao}>Número</Text>
-        <Text style={styles.text}>(11) 91831-1921</Text>
+        <Text style={styles.text}>(11) 91234-5678</Text>
 
         <Text style={styles.tituloInformacao}>Redes Sociais</Text>
         <Text style={styles.text}>facebook.com/produtos123</Text>
